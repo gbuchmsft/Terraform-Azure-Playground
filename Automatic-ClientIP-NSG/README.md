@@ -15,3 +15,4 @@ In this example 3 things are carried out:
  3. Creates an NSG that allows inbound RDP using the IP address from the IP Check Service above. 
  
  The NSG can then be applied to whatever resources you wish - and only your Client IP will be able to access them over RDP.
+ For Linux VMs SSH can be added as well.
